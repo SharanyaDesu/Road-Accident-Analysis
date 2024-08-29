@@ -8,7 +8,6 @@ The dataset used for this project includes the following columns:
 
 **Accident_Index:** Unique identifier for each accident
 
-
 **Accident Date:** Date of the accident
 **Day_of_Week:** Day of the week when the accident occurred
 **Junction_Control:** Type of control at the junction where the accident occurred
