@@ -52,6 +52,7 @@ The dataset used for this project includes the following columns:
 
 
 **Steps Followed:**
+
 Requirement Gathering: Identified the project goals and requirements from stakeholders.
 
 Stakeholders in Project: Involved relevant stakeholders to ensure the dashboard meets their needs.
@@ -76,6 +77,7 @@ Reports: Compiled the visualizations into comprehensive reports for easy interpr
 
 
 **Visualization Types:**
+
 Donut Charts: Used to display proportions and distributions of accident severity and types.
 
 Maps: Visualized geographical distribution of accidents and identified high-risk areas.
