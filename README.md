@@ -1,5 +1,7 @@
 # Road-Accident-Analysis
-![Road Accident Analysis Dashboard](https://github.com/user-attachments/assets/e0e6e8a4-db24-417e-8b0b-814b4500c810)
+
+![image](https://github.com/user-attachments/assets/74845cda-8535-4f5c-abf8-b7770d0e9a06)
+
 
 
 This project involves the development of an interactive dashboard for analyzing road accidents using Power BI. The dashboard provides insights into various aspects of road accidents through dynamic visualizations and data analysis.
